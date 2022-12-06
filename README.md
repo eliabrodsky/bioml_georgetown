@@ -1,7 +1,7 @@
-![Course Cover] (https://raw.githubusercontent.com/eliabrodsky/bioml_georgetown/main/ML-course-Georgetown.jpg?raw=true)
-
 # bioml_georgetown
 BioML: Machine Learning for Biomedical Data (Georgetown School of Medicine Graduate Course)
+
+![Course Cover](https://raw.githubusercontent.com/eliabrodsky/bioml_georgetown/main/ML-course-Georgetown.jpg?raw=true "BioML Cover")
 
 ## Description:
 This course covers practical and conceptual aspects of machine learning in application to high-throughput biomedical data using Python. Throughout the course, students will get an understanding of opportunities and limitations of machine learning in the context of pre-clinical and clinical research. The course is designed as a combination of online resources, practical assignments and live sessions that will be conducted online. Throughout the course, we will review several project examples that demonstrate successes and limitations of conventional machine learning (ML) methods and deep learning (DL) using data from public repositories. As a result of completing this course, each participant should be able to differentiate between various methods, apply the correct method to a data or problem statement and develop a completed project using ML or DL.
