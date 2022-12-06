@@ -1,3 +1,5 @@
+[image]https://raw.githubusercontent.com/eliabrodsky/bioml_georgetown/main/ML-course-Georgetown.jpg[/image]
+
 # bioml_georgetown
 BioML: Machine Learning for Biomedical Data (Georgetown School of Medicine Graduate Course)
 
